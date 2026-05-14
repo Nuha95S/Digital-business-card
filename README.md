@@ -9,7 +9,7 @@ This project is a personal digital card designed to showcase basic profile infor
 ## Technologies Used
 - HTML
 - CSS
-## Live Demo
-[open website](https://nuha95s.github.io/Digital-business-card/)
+## 🚀 Live Demo
+🔗[open website](https://nuha95s.github.io/Digital-business-card/)
 ## Author
 Nuha AL-Saadi
